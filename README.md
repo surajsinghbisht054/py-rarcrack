@@ -46,7 +46,7 @@ __author__='''
  - pycrypto
 
 # Options:
-  
+  ```
   --version             show program's version number and exit
   -h, --help            show this help message and exit
   -f FILENAME, --file=FILENAME
@@ -60,7 +60,7 @@ __author__='''
   -c CRUNCH, --crunch=CRUNCH
                         For Using Passwords Directly from crunch use this
                         arguments: -c True or --crunch True
-
+```
 ## examples 1:
 	- python pyrarcrack.py -f testfile.Rar -d passwords.txt
 
