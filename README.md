@@ -1,29 +1,27 @@
 # py-rarcrack
 Python Script To Brute Force Rar archive files
-# pyRarcrack
-# python Script For Rar File password recovery
 
-# This Script Is Created For http://bitforestinfo.blogspot.in
-# This Script is Written By
-__author__='''
+### author
 
-######################################################
-                By S.S.B Group                          
-######################################################
+<div style="box-shadow: 0 5px 18px rgba(0, 0, 0, 0.6);">
 
-    Suraj Singh
-    Admin
-    S.S.B Group
-    surajsinghbisht054@gmail.com
-    http://bitforestinfo.blogspot.in/
+<a href="https://surajsinghbisht054.blogspot.com" target="_blank">
 
-    Note: We Feel Proud To Be Indian
-######################################################
-'''
-# ScreenShots
-#######################################################
+![author_profile](https://1.bp.blogspot.com/-PX4oBdjyb14/XbOCqgWpATI/AAAAAAAAELo/-jSsyNSMHmkXGXtw9qCT68qiUNqDE2NcACNcBGAsYHQ/s400/logo.png)
+
+</a>
+
+<p> author : surajsinghbisht054@gmail.com </p>
+
+</div>
+
+
+
+
+
+### ScreenShots
+
 ![Screenshot](scr/test.png?raw=true "Screenshot1")
-#########################################################
 
 
 # Features
